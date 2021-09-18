@@ -14,7 +14,7 @@ If users want to view / reference an output, he/she can just refer to the button
   - Create a mobile app (Android) that will integrate with this and Synchronize
     - with SQLite Database
 
-## File Information
+## Repository Information
 
 - Author: Asura
 - Created On: 2021-09-18 0907H, Asura
