@@ -1,9 +1,20 @@
 # Autoref
 
 An all-in-one project created as a general "TestBench" | "PracticeGround" | "LearningRoom" to implement features into in the form of a button.
-If users want to view / reference an output, he/she can just refer to the button function and learn from there
+If users want to view / reference an output, he/she can just refer to the button function and learn from there.
 
 ## Project Information
+
+- Project Name: Proj Automaton
+- Code Name: Code TOOLbx
+- Program Name: AutoRef
+- Primary Goal
+  - Modularity, Portability and Cross-Compatibility with various other systems
+- Future Goals
+  - Create a mobile app (Android) that will integrate with this and Synchronize
+    - with SQLite Database
+
+## File Information
 
 - Author: Asura
 - Created On: 2021-09-18 0907H, Asura
@@ -26,4 +37,3 @@ If users want to view / reference an output, he/she can just refer to the button
     - {Add|Remove} tabs
     - Edit/Update tab names
   - Easy reference and lookup
-
