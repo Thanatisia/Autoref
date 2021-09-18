@@ -37,3 +37,15 @@ If users want to view / reference an output, he/she can just refer to the button
     - {Add|Remove} tabs
     - Edit/Update tab names
   - Easy reference and lookup
+
+## Notes
+
+- NIL
+
+## Remarks
+
+- NIL
+
+## Footers
+
+- Special Thanks to all whom are using this project, please provide any ideas and/or suggestions for updates
